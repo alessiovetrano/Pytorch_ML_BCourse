@@ -5,10 +5,11 @@ Moreover, PyTorch offers dynamic computation graphs, allowing for more flexibili
 
 
 # Dependencies
-* ***torch*** v.2.2.1
-* ***torchvision*** v.0.17.1
-* ***matplotlib*** v.3.8.3
-* ***numpy*** 1.26.4
+* ***torch*** v. 2.2.1
+* ***torchvision*** v. 0.17.1
+* ***matplotlib*** v. 3.8.3
+* ***numpy*** v. 1.26.4
+* ***panda*** v. 2.2.1
 
 # Lessons
 Inside the 'Lessons' folder, there is a Jupyter notebook in Python that covers the following topics:
