@@ -11,9 +11,11 @@ Moreover, PyTorch offers dynamic computation graphs, allowing for more flexibili
 * ***numpy*** 1.26.4
 
 # Lessons
+Inside the 'Lessons' folder, there is a Jupyter notebook in Python that covers the following topics:
 
 1. ***Introduction to Tensors***
 2. ***Dataset and Dataloader***
+3. ***Transformers***
 
 # License
 Apache 2.0, 2004
