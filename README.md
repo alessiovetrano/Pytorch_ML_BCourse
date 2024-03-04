@@ -22,6 +22,7 @@ Inside the 'Lessons' folder, there is a Jupyter notebook in Python that covers t
 1. ***Introduction to Tensors***
 2. ***Dataset and Dataloader***
 3. ***Transformers***
+4. ***Build the Neural Network***
 
 # License
 Apache 2.0, 2004
