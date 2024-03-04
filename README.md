@@ -6,7 +6,10 @@ Moreover, PyTorch offers dynamic computation graphs, allowing for more flexibili
 
 # Dependencies
 To install the dependencies listed in the requirements.txt file, you can use the following command in your terminal or command prompt:
+
 ```pip install -r requirements.txt```
+
+Specifically:
 * ***torch*** v. 2.2.1
 * ***torchvision*** v. 0.17.1
 * ***matplotlib*** v. 3.8.3
