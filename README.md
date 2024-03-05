@@ -23,6 +23,8 @@ Inside the 'Lessons' folder, there is a Jupyter notebook in Python that covers t
 2. ***Dataset and Dataloader***
 3. ***Transformers***
 4. ***Build the Neural Network***
+5. ***Automatic Differentiation with torch.autograd***
+
 
 # License
 Apache 2.0, 2004
